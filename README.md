@@ -5,6 +5,7 @@
 -   [UIverse](https://uiverse.io/elements) - Meu preferido
 -   [Code Stitch](https://codestitch.app/app)
 -   [Pico css](https://picocss.com/docs/card)
+-   [V0](https://v0.dev/) - IA que faz os codigo 
 
 ## Extensões do VSCode necessárias / ajudam
 
