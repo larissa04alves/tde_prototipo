@@ -20,7 +20,7 @@ img {
 }
 
 header {
-    background-color: #b5c7e3;
+    background-color: #405c8a;
     color: white;
     padding: 15px 40px;
     display: flex;
@@ -29,7 +29,7 @@ header {
 }
 
 .clin {
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 60px;
     color: rgb(255, 255, 255);
     font-weight: bold;
@@ -46,7 +46,7 @@ nav ul {
 }
 
 nav ul li {
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: Arial, sans-serif;
     font-weight: 300;
     font-size: 22px;
     padding: 0;
@@ -65,7 +65,7 @@ nav ul li a:hover {
     border-radius: 4px;
 }
 
-/* Hero Section */
+
 .hero-section {
     position: relative;
     height: 500px;
@@ -93,7 +93,7 @@ nav ul li a:hover {
     font-size: 48px;
     font-weight: bold;
     margin-bottom: 20px;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .hero-subtitle {
@@ -122,7 +122,7 @@ nav ul li a:hover {
     transform: translateY(-3px);
 }
 
-/* Info Section */
+
 .info-section {
     padding: 80px 20px;
     max-width: 1200px;
@@ -134,7 +134,7 @@ nav ul li a:hover {
     color: #405c8a;
     text-align: center;
     margin-bottom: 50px;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .info-cards {
@@ -142,6 +142,7 @@ nav ul li a:hover {
     gap: 30px;
     justify-content: center;
     flex-wrap: wrap;
+    cursor: default;
 }
 
 .info-card {
@@ -187,6 +188,7 @@ s.services-section {
 .services-container {
     max-width: 1200px;
     margin: 0 auto;
+    cursor: default;
 }
 
 .services-title {
@@ -194,7 +196,7 @@ s.services-section {
     color: #405c8a;
     text-align: center;
     margin-bottom: 50px;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .services-grid {
@@ -246,7 +248,7 @@ s.services-section {
     color: #666;
 }
 
-/* Appointment Section */
+
 .appointment-section {
     padding: 80px 20px;
     background: linear-gradient(135deg, #405c8a, #2c5282);
@@ -262,7 +264,7 @@ s.services-section {
 .appointment-title {
     font-size: 36px;
     margin-bottom: 20px;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .appointment-subtitle {
@@ -289,7 +291,7 @@ footer {
 }
 
 .footer-logo {
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 36px;
     font-weight: bold;
     margin-bottom: 10px;
@@ -353,7 +355,7 @@ footer {
     color: rgba(255, 255, 255, 0.8);
 }
 
-/* Responsive */
+
 @media (max-width: 1024px) {
     .hero-content {
         flex-direction: column;
